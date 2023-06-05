@@ -1,0 +1,12 @@
+C:\Users\Developer\source\repos\EpayCodingTest\Services.Abstractions\bin\Debug\net6.0\Services.Abstractions.deps.json
+C:\Users\Developer\source\repos\EpayCodingTest\Services.Abstractions\bin\Debug\net6.0\Services.Abstractions.dll
+C:\Users\Developer\source\repos\EpayCodingTest\Services.Abstractions\bin\Debug\net6.0\Services.Abstractions.pdb
+C:\Users\Developer\source\repos\EpayCodingTest\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\EpayCodingTest\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\source\repos\EpayCodingTest\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\EpayCodingTest\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.AssemblyInfo.cs
+C:\Users\Developer\source\repos\EpayCodingTest\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\EpayCodingTest\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.dll
+C:\Users\Developer\source\repos\EpayCodingTest\Services.Abstractions\obj\Debug\net6.0\refint\Services.Abstractions.dll
+C:\Users\Developer\source\repos\EpayCodingTest\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.pdb
+C:\Users\Developer\source\repos\EpayCodingTest\Services.Abstractions\obj\Debug\net6.0\ref\Services.Abstractions.dll
